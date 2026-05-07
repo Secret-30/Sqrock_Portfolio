@@ -163,3 +163,18 @@ section {
 .contact-info p {
     margin: 5px 0;
 }
+/* Reduce space after your name */
+h1 {
+    margin-bottom: 5px; /* Adjust this number as needed */
+}
+
+/* Reduce space around the sub-title (Full Stack and Web Developer) */
+p {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+/* Reduce space before the 'About Me' header */
+h2 {
+    margin-top: 10px; /* This pulls the About Me section closer to the text above it */
+}
