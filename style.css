@@ -132,7 +132,7 @@ nav ul li {
 
 /* Ensure sections stack cleanly */
 section {
-    padding: 60px 50px;
+    padding: 5px;
     text-align: left; /* Align text to the left */
     max-width: 900px; /* Limits width so it doesn't stretch too far */
     margin: 0 auto;   /* Centers the section on the page */
